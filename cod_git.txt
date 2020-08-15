@@ -1,0 +1,3 @@
+git pull - baixa as atualizações do código
+git commit -m "Mensagem do commit" - Comita o código com uma mensagem
+git push - Usado após o "git commit", upa o código para o GitHub de novo
